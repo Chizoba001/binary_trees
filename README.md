@@ -12,6 +12,6 @@ General
 
 # Collaborators
 'Ridwan Akinola' <akinolaridwanbnhusaain@gmail.com>
-'Insert yours here'<>
+'Chizoba Samuel Aboviekie'<chizzwhite63@gmail.com>
 
 
